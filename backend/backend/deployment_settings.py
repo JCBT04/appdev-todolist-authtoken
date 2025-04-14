@@ -24,7 +24,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://appdev-todolist-fullstack.onrender.com"
+    "https://appdev-todolist-authtoken.onrender.com"
 ]
 
 STORAGES ={
